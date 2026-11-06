@@ -1,0 +1,12 @@
+google-genai
+SpeechRecognition
+sounddevice
+scipy
+numpy
+pyttsx3
+pyautogui
+pyperclip
+selenium
+webdriver-manager
+psutil
+requests
