@@ -19,7 +19,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-venkatsaiganesh23--byte-181717?style=for-the-badge&logo=github)](https://github.com/venkatsaiganesh23-byte)
+[![GitHub](https://img.shields.io/badge/GitHub-rathodprashanth-181717?style=for-the-badge&logo=github)](https://github.com/rathodprahsanth)
 
 </div>
 
@@ -185,8 +185,8 @@ python main.py
 
 <div align="center">
 
-**Venkat Sai Ganesh**
-[![GitHub](https://img.shields.io/badge/GitHub-venkatsaiganesh23--byte-181717?style=flat-square&logo=github)](https://github.com/venkatsaiganesh23-byte)
+**Rathod Prashanth**
+[![GitHub](https://img.shields.io/badge/GitHub-rathodprashanth-181717?style=flat-square&logo=github)](https://github.com/rathodprashanth)
 
 *Built for College Review 2 — 2026*
 
@@ -198,6 +198,6 @@ python main.py
 
 **⭐ Star this repo if you found it useful!**
 
-`BOB-AI © 2026 — Venkat Sai Ganesh`
+`BOB-AI © 2026 — Rathod Prashanth`
 
 </div>
