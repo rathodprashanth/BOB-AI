@@ -19,7 +19,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-rathodprashanth-181717?style=for-the-badge&logo=github)](https://github.com/rathodprahsanth)
+[![GitHub](https://img.shields.io/badge/rathodprashanth/GitHub-rathodprashanth-181717?style=for-the-badge&logo=github)](https://github.com/rathodprahsanth)
 
 </div>
 
